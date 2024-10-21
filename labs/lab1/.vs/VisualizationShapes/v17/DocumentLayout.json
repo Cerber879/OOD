@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\ShapeHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleMathDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CMathDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\ShapeHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\output.txt",
+              "RelativeDocumentMoniker": "VisualizationShapes\\output.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\output.txt",
+              "RelativeToolTip": "VisualizationShapes\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-20T15:56:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CCircleFileDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleFileDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleFileDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleFileDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CCircleFileDecorator.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:27:00.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CTriangleFileDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:55:08.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CRectangle.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangle.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangle.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangle.h",
+              "RelativeToolTip": "VisualizationShapes\\CRectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:32:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\input.txt",
+              "RelativeDocumentMoniker": "VisualizationShapes\\input.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\input.txt",
+              "RelativeToolTip": "VisualizationShapes\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-20T15:23:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\log.txt",
+              "RelativeDocumentMoniker": "VisualizationShapes\\log.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\log.txt",
+              "RelativeToolTip": "VisualizationShapes\\log.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-20T15:41:34.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\ShapeHandler.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeHandler.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\ShapeHandler.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ShapeHandler.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:14:59.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRectangleFileDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:18:56.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CTriangleDrawDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T16:04:38.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CCircleDrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleDrawDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleDrawDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleDrawDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CCircleDrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:03:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRectangleDrawDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:47:39.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CCircleDrawDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T16:03:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRectangleDrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleDrawDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleDrawDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleDrawDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleDrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:03:44.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CTriangle.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangle.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangle.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangle.h",
+              "RelativeToolTip": "VisualizationShapes\\CTriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:40:15.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CCircle.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircle.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircle.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircle.h",
+              "RelativeToolTip": "VisualizationShapes\\CCircle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:39:44.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CCircle.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircle.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircle.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircle.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CCircle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T16:39:23.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CDrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CDrawDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CDrawDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CDrawDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CDrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:03:33.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CTriangle.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangle.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangle.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangle.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CTriangle.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T16:40:48.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CTriangleDrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleDrawDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangleDrawDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleDrawDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CTriangleDrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:03:48.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CRectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangle.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangle.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangle.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CRectangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:38:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CRectangleMathDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleMathDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleMathDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleMathDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleMathDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T16:22:12.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CRectangleFileDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleFileDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleFileDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CRectangleFileDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleFileDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T15:57:10.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CCircleFileDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleFileDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleFileDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CCircleFileDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CCircleFileDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:02:49.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CFileDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CFileDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CFileDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CFileDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CFileDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:02:40.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CMathDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CMathDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CMathDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CMathDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CMathDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T16:02:23.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CTriangleFileDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleFileDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangleFileDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\CTriangleFileDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CTriangleFileDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T15:47:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShapeHandler.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\ShapeHandler.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeHandler.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab1\\VisualizationShapes\\VisualizationShapes\\ShapeHandler.h",
+              "RelativeToolTip": "VisualizationShapes\\ShapeHandler.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T15:18:24.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

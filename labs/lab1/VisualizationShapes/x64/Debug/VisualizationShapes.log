@@ -1,0 +1,8 @@
+﻿  ShapeHandler.cpp
+C:\Users\User\source\repos\OOD\labs\lab1\VisualizationShapes\VisualizationShapes\StringConstants.h(10,24): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ShapeHandler.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab1\VisualizationShapes\VisualizationShapes\StringConstants.h(10,24): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ShapeHandler.cpp")
+  
+  VisualizationShapes.vcxproj -> C:\Users\User\source\repos\OOD\labs\lab1\VisualizationShapes\x64\Debug\VisualizationShapes.exe
