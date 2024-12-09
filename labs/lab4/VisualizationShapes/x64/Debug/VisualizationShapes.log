@@ -1,0 +1,22 @@
+﻿  CShape.cpp
+C:\Users\User\source\repos\OOD\labs\lab4\VisualizationShapes\Constants.h(41,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CShape.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab4\VisualizationShapes\Constants.h(46,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CShape.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab4\VisualizationShapes\Constants.h(46,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CShape.cpp")
+  
+  VisualizationShapes.cpp
+C:\Users\User\source\repos\OOD\labs\lab4\VisualizationShapes\Constants.h(41,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "VisualizationShapes.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab4\VisualizationShapes\Constants.h(46,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "VisualizationShapes.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab4\VisualizationShapes\Constants.h(46,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "VisualizationShapes.cpp")
+  
+  Создание кода...
+  VisualizationShapes.vcxproj -> C:\Users\User\source\repos\OOD\labs\lab4\x64\Debug\VisualizationShapes.exe
