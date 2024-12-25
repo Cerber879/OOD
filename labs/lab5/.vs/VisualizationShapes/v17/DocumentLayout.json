@@ -1,0 +1,2117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\BinaryShapesLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\BinaryShapesLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesBINCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\LoaderShapesBINCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Memento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Memento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Memento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Memento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesBINCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\LoaderShapesBINCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CompositeBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Caretaker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Caretaker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ThicknessVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ThicknessVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Composite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Composite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\throw_bad_alloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapeSaver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\BinaryShapeSaver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\BinaryShapesSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapesSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IShapesSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TextShapesLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapeSaver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TextShapeSaver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TriangleBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\RectangleBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CircleBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CircleBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ToolPanel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Composite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Composite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\shapes.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\shapes.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\shapes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\shapes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapeSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisualizationShapes\\BinaryShapeSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapesLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IShapesLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesTXTCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\LoaderShapesTXTCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesBINCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SaverShapesBINCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesTXTCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SaverShapesTXTCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TextShapesLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanelManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ToolPanelManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\VisualizationShapes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\VisualizationShapes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TextShapesSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesTXTCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SaverShapesTXTCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Caretaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Caretaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeHandler.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeHandler.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TriangleBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\RectangleBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CompositeBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IMathDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IMathDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleFileDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleFileDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IFileDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IFileDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\robot.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\robot.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesBINCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SaverShapesBINCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeReaderStateFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeReaderStateFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleReaderState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TriangleReaderState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleReaderState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\RectangleReaderState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleReaderState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CircleReaderState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddCircleCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\AddCircleCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetModeCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetModeCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetTypeColorCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetTypeColorCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CShape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CShape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ColorVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ColorVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ThicknessVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ThicknessVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorThicknessVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ColorThicknessVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorThicknessVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ColorThicknessVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\DragAndDropState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\DragAndDropState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\DragAndDropState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\DragAndDropState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanelManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ToolPanelManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\FillingState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\FillingState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddTriangleCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\AddTriangleCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddRectangleCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\AddRectangleCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ToolPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IToolPanelState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IToolPanelState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetColorCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetColorCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CompositeDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\RectangleDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeDrawStateFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeDrawStateFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CompositeDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CircleDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IShapeDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\FillingState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\FillingState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetOutlineThicknessCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetOutlineThicknessCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeDrawStateFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeDrawStateFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetModeCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetModeCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetColorCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetColorCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetTypeColorCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetTypeColorCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetOutlineThicknessCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\SetOutlineThicknessCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleDrawDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CTriangleFileDecorator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleFileDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CRectangleDrawDecorator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleDrawDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleDrawDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\NullCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\NullCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddRectangleCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\AddRectangleCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddCircleCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\AddCircleCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Command.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\Command.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IShapeWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TriangleWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\RectangleWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CircleWriterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TriangleDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\RectangleDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CircleDrawState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeWriterStateFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeWriterStateFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeWriterStateFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\ShapeWriterStateFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeReaderState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IShapeReaderState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleWriterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TriangleWriterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleWriterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\RectangleWriterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleWriterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CircleWriterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\TriangleDrawState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IDrawDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IDrawDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleMathDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\CCircleMathDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C47BBB2-30C4-45AA-8DC8-9AEC958CF305}|VisualizationShapes\\VisualizationShapes.vcxproj|solutionrelative:VisualizationShapes\\IShapeDecorator.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisualizationShapes\\IShapeSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapeSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisualizationShapes\\TextShapeSaver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 393,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShapeHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeHandler.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeHandler.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeHandler.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ShapeHandler.cpp",
+              "ViewState": "AQIAAI8AAAAAAAAAAIAwwJ0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:14:59.798Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Memento.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Memento.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Memento.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Memento.h",
+              "RelativeToolTip": "VisualizationShapes\\Memento.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:41:49.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoaderShapesBINCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesBINCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\LoaderShapesBINCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesBINCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\LoaderShapesBINCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T21:58:45.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Memento.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Memento.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Memento.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Memento.cpp",
+              "RelativeToolTip": "VisualizationShapes\\Memento.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:43:26.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryShapesLoader.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesLoader.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\BinaryShapesLoader.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesLoader.h",
+              "RelativeToolTip": "VisualizationShapes\\BinaryShapesLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T21:59:49.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryShapesLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesLoader.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\BinaryShapesLoader.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesLoader.cpp",
+              "RelativeToolTip": "VisualizationShapes\\BinaryShapesLoader.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T22:00:56.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaderShapesBINCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesBINCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\LoaderShapesBINCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesBINCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\LoaderShapesBINCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T16:09:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompositeBuilder.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeBuilder.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CompositeBuilder.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeBuilder.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CompositeBuilder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T11:04:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constants.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Constants.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Constants.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Constants.h",
+              "RelativeToolTip": "VisualizationShapes\\Constants.h",
+              "ViewState": "AQIAAIgAAAAAAAAAAIAwwJUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T19:40:14.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Caretaker.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Caretaker.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Caretaker.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Caretaker.h",
+              "RelativeToolTip": "VisualizationShapes\\Caretaker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:42:23.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThicknessVisitor.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ThicknessVisitor.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ThicknessVisitor.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ThicknessVisitor.h",
+              "RelativeToolTip": "VisualizationShapes\\ThicknessVisitor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:27:04.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BinaryShapeSaver.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapeSaver.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\BinaryShapeSaver.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapeSaver.cpp",
+              "RelativeToolTip": "VisualizationShapes\\BinaryShapeSaver.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T05:38:30.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "throw_bad_alloc.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAnwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T16:47:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TextShapeSaver.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapeSaver.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TextShapeSaver.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapeSaver.cpp",
+              "RelativeToolTip": "VisualizationShapes\\TextShapeSaver.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T05:39:27.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Composite.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Composite.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Composite.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Composite.h",
+              "RelativeToolTip": "VisualizationShapes\\Composite.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T15:47:06.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BinaryShapesSaver.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesSaver.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\BinaryShapesSaver.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapesSaver.h",
+              "RelativeToolTip": "VisualizationShapes\\BinaryShapesSaver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T16:09:32.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IShapesSaver.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapesSaver.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShapesSaver.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapesSaver.h",
+              "RelativeToolTip": "VisualizationShapes\\IShapesSaver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T13:36:01.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TextShapesLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesLoader.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TextShapesLoader.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesLoader.cpp",
+              "RelativeToolTip": "VisualizationShapes\\TextShapesLoader.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T09:59:27.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TriangleBuilder.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleBuilder.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TriangleBuilder.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleBuilder.cpp",
+              "RelativeToolTip": "VisualizationShapes\\TriangleBuilder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T11:00:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RectangleBuilder.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleBuilder.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\RectangleBuilder.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleBuilder.cpp",
+              "RelativeToolTip": "VisualizationShapes\\RectangleBuilder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T09:11:33.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CircleBuilder.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleBuilder.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CircleBuilder.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleBuilder.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CircleBuilder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T08:21:17.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CircleBuilder.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleBuilder.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CircleBuilder.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleBuilder.h",
+              "RelativeToolTip": "VisualizationShapes\\CircleBuilder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T08:18:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ToolPanel.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanel.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ToolPanel.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanel.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ToolPanel.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T20:53:48.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Composite.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Composite.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Composite.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Composite.cpp",
+              "RelativeToolTip": "VisualizationShapes\\Composite.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAnwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T14:42:56.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "shapes.bin",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\shapes.bin",
+              "RelativeDocumentMoniker": "VisualizationShapes\\shapes.bin",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\shapes.bin",
+              "RelativeToolTip": "VisualizationShapes\\shapes.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T20:08:39.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "ViewState": "AQIAAO4CAAAAAAAAAAApwPkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-21T21:46:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "IShapeSaver.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeSaver.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShapeSaver.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeSaver.h",
+              "RelativeToolTip": "VisualizationShapes\\IShapeSaver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T04:27:44.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "shapes.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\shapes.txt",
+              "RelativeDocumentMoniker": "VisualizationShapes\\shapes.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\shapes.txt",
+              "RelativeToolTip": "VisualizationShapes\\shapes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T20:07:45.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CRectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangle.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangle.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangle.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CRectangle.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T14:37:39.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "ViewState": "AQIAABAEAAAAAAAAAAAIwB0EAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-08T20:57:21.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "TextShapeSaver.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapeSaver.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TextShapeSaver.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapeSaver.h",
+              "RelativeToolTip": "VisualizationShapes\\TextShapeSaver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T05:39:14.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BinaryShapeSaver.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapeSaver.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\BinaryShapeSaver.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\BinaryShapeSaver.h",
+              "RelativeToolTip": "VisualizationShapes\\BinaryShapeSaver.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T05:37:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IShapesLoader.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapesLoader.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShapesLoader.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapesLoader.h",
+              "RelativeToolTip": "VisualizationShapes\\IShapesLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T04:28:39.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CTriangle.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangle.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangle.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangle.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CTriangle.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T14:41:29.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CCircle.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircle.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircle.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircle.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CCircle.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T14:41:58.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoaderShapesTXTCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesTXTCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\LoaderShapesTXTCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\LoaderShapesTXTCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\LoaderShapesTXTCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T21:58:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SaverShapesBINCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesBINCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SaverShapesBINCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesBINCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\SaverShapesBINCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:50:08.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SaverShapesTXTCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesTXTCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SaverShapesTXTCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesTXTCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\SaverShapesTXTCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:19:24.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\input.txt",
+              "RelativeDocumentMoniker": "VisualizationShapes\\input.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\input.txt",
+              "RelativeToolTip": "VisualizationShapes\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T18:09:55.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TextShapesLoader.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesLoader.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TextShapesLoader.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesLoader.h",
+              "RelativeToolTip": "VisualizationShapes\\TextShapesLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T09:54:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ToolPanelManager.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanelManager.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ToolPanelManager.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanelManager.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ToolPanelManager.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T19:12:21.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VisualizationShapes.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\VisualizationShapes.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\VisualizationShapes.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\VisualizationShapes.cpp",
+              "RelativeToolTip": "VisualizationShapes\\VisualizationShapes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T19:24:28.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TextShapesSaver.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesSaver.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TextShapesSaver.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TextShapesSaver.h",
+              "RelativeToolTip": "VisualizationShapes\\TextShapesSaver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T16:09:30.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SaverShapesTXTCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesTXTCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SaverShapesTXTCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesTXTCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\SaverShapesTXTCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T07:16:55.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Caretaker.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Caretaker.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Caretaker.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Caretaker.cpp",
+              "RelativeToolTip": "VisualizationShapes\\Caretaker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:45:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ShapeHandler.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeHandler.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeHandler.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeHandler.h",
+              "RelativeToolTip": "VisualizationShapes\\ShapeHandler.h",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwEAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CRectangle.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangle.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangle.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangle.h",
+              "RelativeToolTip": "VisualizationShapes\\CRectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T20:23:30.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TriangleBuilder.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleBuilder.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TriangleBuilder.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleBuilder.h",
+              "RelativeToolTip": "VisualizationShapes\\TriangleBuilder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T10:34:38.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RectangleBuilder.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleBuilder.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\RectangleBuilder.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleBuilder.h",
+              "RelativeToolTip": "VisualizationShapes\\RectangleBuilder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T09:10:20.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CRectangleDrawDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleDrawDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:42:11.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CRectangleFileDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleFileDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:20:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IShape.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShape.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShape.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShape.h",
+              "RelativeToolTip": "VisualizationShapes\\IShape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:30.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CompositeBuilder.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeBuilder.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CompositeBuilder.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeBuilder.h",
+              "RelativeToolTip": "VisualizationShapes\\CompositeBuilder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T10:59:00.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Builder.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Builder.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Builder.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Builder.h",
+              "RelativeToolTip": "VisualizationShapes\\Builder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T08:13:27.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CCircle.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircle.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircle.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircle.h",
+              "RelativeToolTip": "VisualizationShapes\\CCircle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T20:11:47.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CTriangle.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangle.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangle.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangle.h",
+              "RelativeToolTip": "VisualizationShapes\\CTriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T20:28:59.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CCircleFileDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleFileDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleFileDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleFileDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CCircleFileDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:18:07.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IMathDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IMathDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IMathDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IMathDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\IMathDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CCircleFileDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleFileDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleFileDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleFileDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CCircleFileDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IFileDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IFileDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IFileDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IFileDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\IFileDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "robot.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\robot.txt",
+              "RelativeDocumentMoniker": "VisualizationShapes\\robot.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\robot.txt",
+              "RelativeToolTip": "VisualizationShapes\\robot.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T18:09:44.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SaverShapesBINCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesBINCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SaverShapesBINCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SaverShapesBINCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\SaverShapesBINCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T07:48:43.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ShapeReaderStateFactory.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeReaderStateFactory.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeReaderStateFactory.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeReaderStateFactory.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ShapeReaderStateFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:46:05.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TriangleReaderState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleReaderState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TriangleReaderState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleReaderState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\TriangleReaderState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:46:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RectangleReaderState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleReaderState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\RectangleReaderState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleReaderState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\RectangleReaderState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:46:18.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CircleReaderState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleReaderState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CircleReaderState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleReaderState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CircleReaderState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:46:13.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AddCircleCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddCircleCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\AddCircleCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddCircleCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\AddCircleCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:10:19.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SetModeCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetModeCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetModeCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetModeCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\SetModeCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T09:27:17.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SetTypeColorCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetTypeColorCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetTypeColorCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetTypeColorCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\SetTypeColorCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T09:32:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Button.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Button.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Button.cpp",
+              "RelativeToolTip": "VisualizationShapes\\Button.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T20:55:41.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CShape.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CShape.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CShape.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CShape.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CShape.cpp",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T14:48:40.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ColorThicknessVisitor.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorThicknessVisitor.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ColorThicknessVisitor.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorThicknessVisitor.h",
+              "RelativeToolTip": "VisualizationShapes\\ColorThicknessVisitor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:28:04.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IVisitor.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IVisitor.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IVisitor.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IVisitor.h",
+              "RelativeToolTip": "VisualizationShapes\\IVisitor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T16:51:54.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ColorVisitor.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorVisitor.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ColorVisitor.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorVisitor.h",
+              "RelativeToolTip": "VisualizationShapes\\ColorVisitor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:01:23.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ColorVisitor.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorVisitor.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ColorVisitor.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorVisitor.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ColorVisitor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:08:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ThicknessVisitor.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ThicknessVisitor.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ThicknessVisitor.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ThicknessVisitor.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ThicknessVisitor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:30:26.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ColorThicknessVisitor.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorThicknessVisitor.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ColorThicknessVisitor.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ColorThicknessVisitor.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ColorThicknessVisitor.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:30:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DragAndDropState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\DragAndDropState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\DragAndDropState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\DragAndDropState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\DragAndDropState.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAApwDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T16:57:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DragAndDropState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\DragAndDropState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\DragAndDropState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\DragAndDropState.h",
+              "RelativeToolTip": "VisualizationShapes\\DragAndDropState.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T16:55:17.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FillingState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\FillingState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\FillingState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\FillingState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\FillingState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T16:58:53.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ToolPanelManager.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanelManager.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ToolPanelManager.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanelManager.h",
+              "RelativeToolTip": "VisualizationShapes\\ToolPanelManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T19:09:01.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddTriangleCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddTriangleCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\AddTriangleCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddTriangleCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\AddTriangleCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:27:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CTriangleDrawDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CTriangleDrawDecorator.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:41:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AddRectangleCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddRectangleCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\AddRectangleCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddRectangleCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\AddRectangleCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:25:22.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IToolPanelState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IToolPanelState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IToolPanelState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IToolPanelState.h",
+              "RelativeToolTip": "VisualizationShapes\\IToolPanelState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T16:52:39.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ToolPanel.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanel.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ToolPanel.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ToolPanel.h",
+              "RelativeToolTip": "VisualizationShapes\\ToolPanel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-01T13:15:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\output.txt",
+              "RelativeDocumentMoniker": "VisualizationShapes\\output.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\output.txt",
+              "RelativeToolTip": "VisualizationShapes\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-29T17:27:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "SetColorCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetColorCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetColorCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetColorCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\SetColorCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:01:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "RectangleDrawState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleDrawState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\RectangleDrawState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleDrawState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\RectangleDrawState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:40:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CompositeDrawState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeDrawState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CompositeDrawState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeDrawState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CompositeDrawState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:40:26.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ShapeDrawStateFactory.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeDrawStateFactory.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeDrawStateFactory.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeDrawStateFactory.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ShapeDrawStateFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:45:57.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CompositeDrawState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeDrawState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CompositeDrawState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CompositeDrawState.h",
+              "RelativeToolTip": "VisualizationShapes\\CompositeDrawState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:28:11.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CircleDrawState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleDrawState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CircleDrawState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleDrawState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CircleDrawState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:40:05.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IShapeDrawState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeDrawState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShapeDrawState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeDrawState.h",
+              "RelativeToolTip": "VisualizationShapes\\IShapeDrawState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:21:36.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "FillingState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\FillingState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\FillingState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\FillingState.h",
+              "RelativeToolTip": "VisualizationShapes\\FillingState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T16:55:35.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "SetOutlineThicknessCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetOutlineThicknessCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetOutlineThicknessCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetOutlineThicknessCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\SetOutlineThicknessCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:06:55.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ShapeDrawStateFactory.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeDrawStateFactory.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeDrawStateFactory.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeDrawStateFactory.h",
+              "RelativeToolTip": "VisualizationShapes\\ShapeDrawStateFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:28:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Button.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Button.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Button.h",
+              "RelativeToolTip": "VisualizationShapes\\Button.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T19:37:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "SetModeCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetModeCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetModeCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetModeCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\SetModeCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T09:25:42.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "SetColorCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetColorCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetColorCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetColorCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\SetColorCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T19:59:34.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "SetTypeColorCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetTypeColorCommand.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetTypeColorCommand.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetTypeColorCommand.cpp",
+              "RelativeToolTip": "VisualizationShapes\\SetTypeColorCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T09:33:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "SetOutlineThicknessCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetOutlineThicknessCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\SetOutlineThicknessCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\SetOutlineThicknessCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\SetOutlineThicknessCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T20:05:28.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "CCircleDrawDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CCircleDrawDecorator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:28:29.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "CTriangleFileDecorator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CTriangleFileDecorator.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:27:56.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CRectangleFileDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleFileDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleFileDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleFileDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleFileDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T20:20:42.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CRectangleDrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleDrawDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CRectangleDrawDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CRectangleDrawDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CRectangleDrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T20:20:33.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CCircleDrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleDrawDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleDrawDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleDrawDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CCircleDrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "AddRectangleCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddRectangleCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\AddRectangleCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddRectangleCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\AddRectangleCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T19:30:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "NullCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\NullCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\NullCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\NullCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\NullCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T19:30:48.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "AddCircleCommand.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddCircleCommand.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\AddCircleCommand.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\AddCircleCommand.h",
+              "RelativeToolTip": "VisualizationShapes\\AddCircleCommand.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T19:30:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Command.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Command.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\Command.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\Command.h",
+              "RelativeToolTip": "VisualizationShapes\\Command.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T19:29:01.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "TriangleWriterState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleWriterState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TriangleWriterState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleWriterState.h",
+              "RelativeToolTip": "VisualizationShapes\\TriangleWriterState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:41:40.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "TriangleDrawState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleDrawState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TriangleDrawState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleDrawState.h",
+              "RelativeToolTip": "VisualizationShapes\\TriangleDrawState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:27:50.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "RectangleWriterState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleWriterState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\RectangleWriterState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleWriterState.h",
+              "RelativeToolTip": "VisualizationShapes\\RectangleWriterState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:41:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "IShapeWriterState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeWriterState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShapeWriterState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeWriterState.h",
+              "RelativeToolTip": "VisualizationShapes\\IShapeWriterState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:50:08.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "RectangleDrawState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleDrawState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\RectangleDrawState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleDrawState.h",
+              "RelativeToolTip": "VisualizationShapes\\RectangleDrawState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:26:32.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CircleWriterState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleWriterState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CircleWriterState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleWriterState.h",
+              "RelativeToolTip": "VisualizationShapes\\CircleWriterState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:41:13.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "CircleDrawState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleDrawState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CircleDrawState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleDrawState.h",
+              "RelativeToolTip": "VisualizationShapes\\CircleDrawState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:27:17.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ShapeWriterStateFactory.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeWriterStateFactory.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeWriterStateFactory.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeWriterStateFactory.cpp",
+              "RelativeToolTip": "VisualizationShapes\\ShapeWriterStateFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:50:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "ShapeWriterStateFactory.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeWriterStateFactory.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\ShapeWriterStateFactory.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\ShapeWriterStateFactory.h",
+              "RelativeToolTip": "VisualizationShapes\\ShapeWriterStateFactory.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:28:54.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "IShapeReaderState.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeReaderState.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShapeReaderState.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeReaderState.h",
+              "RelativeToolTip": "VisualizationShapes\\IShapeReaderState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:42:53.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "RectangleWriterState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleWriterState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\RectangleWriterState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\RectangleWriterState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\RectangleWriterState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:41:36.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "TriangleWriterState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleWriterState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TriangleWriterState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleWriterState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\TriangleWriterState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:41:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "CircleWriterState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleWriterState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CircleWriterState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CircleWriterState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\CircleWriterState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:41:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "TriangleDrawState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleDrawState.cpp",
+              "RelativeDocumentMoniker": "VisualizationShapes\\TriangleDrawState.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\TriangleDrawState.cpp",
+              "RelativeToolTip": "VisualizationShapes\\TriangleDrawState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:41:01.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "CCircleMathDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleMathDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\CCircleMathDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\CCircleMathDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\CCircleMathDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "IDrawDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IDrawDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IDrawDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IDrawDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\IDrawDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "IShapeDecorator.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeDecorator.h",
+              "RelativeDocumentMoniker": "VisualizationShapes\\IShapeDecorator.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOD\\labs\\lab5\\VisualizationShapes\\IShapeDecorator.h",
+              "RelativeToolTip": "VisualizationShapes\\IShapeDecorator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T18:00:58.452Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

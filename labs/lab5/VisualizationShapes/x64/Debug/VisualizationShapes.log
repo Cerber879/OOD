@@ -1,0 +1,693 @@
+﻿  AddCircleCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\AddCircleCommand.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "AddCircleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "AddCircleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "AddCircleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "AddCircleCommand.cpp")
+  
+  AddRectangleCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\AddRectangleCommand.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "AddRectangleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "AddRectangleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "AddRectangleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "AddRectangleCommand.cpp")
+  
+  AddTriangleCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "AddTriangleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "AddTriangleCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "AddTriangleCommand.cpp")
+  
+  BinaryShapeSaver.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "BinaryShapeSaver.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "BinaryShapeSaver.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "BinaryShapeSaver.cpp")
+  
+  BinaryShapesLoader.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "BinaryShapesLoader.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "BinaryShapesLoader.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "BinaryShapesLoader.cpp")
+  
+  Button.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "Button.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "Button.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "Button.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(9,45): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(29,45): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,78): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Button.cpp(43,61): warning C4244:         ]
+  CCircle.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CCircle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CCircle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CCircle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(9,32): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,66): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(61,54): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(67,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(93,32): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CCircle.cpp(98,38): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  CCircleDrawDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CCircleDrawDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CCircleDrawDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CCircleDrawDecorator.cpp")
+  
+  CCircleFileDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CCircleFileDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CCircleFileDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CCircleFileDecorator.cpp")
+  
+  CCircleMathDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CCircleMathDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CCircleMathDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CCircleMathDecorator.cpp")
+  
+  CRectangle.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CRectangle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CRectangle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CRectangle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(9,35): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,69): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(63,57): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(68,26): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,53): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(73,41): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(98,35): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CRectangle.cpp(103,41): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  CRectangleDrawDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CRectangleDrawDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CRectangleDrawDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CRectangleDrawDecorator.cpp")
+  
+  CRectangleFileDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CRectangleFileDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CRectangleFileDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CRectangleFileDecorator.cpp")
+  
+  CRectangleMathDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CRectangleMathDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CRectangleMathDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CRectangleMathDecorator.cpp")
+  
+  CShape.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CShape.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CShape.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CShape.cpp")
+  
+  CTriangle.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CTriangle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CTriangle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CTriangle.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(5,47): warning C4244: аргумент: преобразование "const float" в "size_t", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(8,42): warning C4244: аргумент: преобразование "const float" в "size_t", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(11,34): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(19,47): warning C4244: аргумент: преобразование "const float" в "size_t", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,68): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(73,56): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(113,34): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\CTriangle.cpp(118,40): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  CTriangleDrawDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CTriangleDrawDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CTriangleDrawDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CTriangleDrawDecorator.cpp")
+  
+  CTriangleFileDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CTriangleFileDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CTriangleFileDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CTriangleFileDecorator.cpp")
+  
+  CTriangleMathDecorator.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CTriangleMathDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CTriangleMathDecorator.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CTriangleMathDecorator.cpp")
+  
+  Caretaker.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "Caretaker.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "Caretaker.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "Caretaker.cpp")
+  
+  Создание кода...
+  Компиляция...
+  CircleBuilder.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CircleBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CircleBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CircleBuilder.cpp")
+  
+  CircleReaderState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CircleReaderState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CircleReaderState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CircleReaderState.cpp")
+  
+  CircleWriterState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CircleWriterState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CircleWriterState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CircleWriterState.cpp")
+  
+  ColorThicknessVisitor.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ColorThicknessVisitor.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ColorThicknessVisitor.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ColorThicknessVisitor.cpp")
+  
+  ColorVisitor.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ColorVisitor.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ColorVisitor.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ColorVisitor.cpp")
+  
+  Composite.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "Composite.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "Composite.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "Composite.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(99,39): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,90): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:         with
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:             T=float
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:         ]
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:         and
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:         [
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:             T=int
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Composite.cpp(156,49): warning C4244:         ]
+  CompositeBuilder.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "CompositeBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "CompositeBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "CompositeBuilder.cpp")
+  
+  DragAndDropState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "DragAndDropState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "DragAndDropState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "DragAndDropState.cpp")
+  
+  FillingState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "FillingState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "FillingState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "FillingState.cpp")
+  
+  IShapeDrawState.h
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "IShapeDrawState.h")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "IShapeDrawState.h")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "IShapeDrawState.h")
+  
+  LoaderShapesBINCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "LoaderShapesBINCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "LoaderShapesBINCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "LoaderShapesBINCommand.cpp")
+  
+  LoaderShapesTXTCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "LoaderShapesTXTCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "LoaderShapesTXTCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "LoaderShapesTXTCommand.cpp")
+  
+  Memento.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "Memento.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "Memento.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "Memento.cpp")
+  
+  RectangleBuilder.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "RectangleBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "RectangleBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "RectangleBuilder.cpp")
+  
+  RectangleReaderState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "RectangleReaderState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "RectangleReaderState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "RectangleReaderState.cpp")
+  
+  RectangleWriterState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "RectangleWriterState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "RectangleWriterState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "RectangleWriterState.cpp")
+  
+  SaverShapesBINCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "SaverShapesBINCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "SaverShapesBINCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "SaverShapesBINCommand.cpp")
+  
+  SaverShapesTXTCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "SaverShapesTXTCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "SaverShapesTXTCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "SaverShapesTXTCommand.cpp")
+  
+  SetColorCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "SetColorCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "SetColorCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "SetColorCommand.cpp")
+  
+  SetModeCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "SetModeCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "SetModeCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "SetModeCommand.cpp")
+  
+  Создание кода...
+  Компиляция...
+  SetOutlineThicknessCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "SetOutlineThicknessCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "SetOutlineThicknessCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "SetOutlineThicknessCommand.cpp")
+  
+  SetTypeColorCommand.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "SetTypeColorCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "SetTypeColorCommand.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "SetTypeColorCommand.cpp")
+  
+  ShapeHandler.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ShapeHandler.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ShapeHandler.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ShapeHandler.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\ShapeHandler.cpp(70,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\ShapeHandler.cpp(201,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  ShapeReaderStateFactory.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ShapeReaderStateFactory.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ShapeReaderStateFactory.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ShapeReaderStateFactory.cpp")
+  
+  ShapeWriterStateFactory.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ShapeWriterStateFactory.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ShapeWriterStateFactory.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ShapeWriterStateFactory.cpp")
+  
+  TextShapeSaver.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "TextShapeSaver.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "TextShapeSaver.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "TextShapeSaver.cpp")
+  
+  TextShapesLoader.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "TextShapesLoader.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "TextShapesLoader.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "TextShapesLoader.cpp")
+  
+  ThicknessVisitor.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ThicknessVisitor.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ThicknessVisitor.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ThicknessVisitor.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\ThicknessVisitor.cpp(5,33): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\ThicknessVisitor.cpp(10,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\ThicknessVisitor.cpp(15,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\ThicknessVisitor.cpp(20,33): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+  ToolPanel.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ToolPanel.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ToolPanel.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ToolPanel.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\NullCommand.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "ToolPanel.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\AddRectangleCommand.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "ToolPanel.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\AddCircleCommand.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "ToolPanel.cpp")
+  
+  ToolPanelManager.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ToolPanelManager.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "ToolPanelManager.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "ToolPanelManager.cpp")
+  
+  TriangleBuilder.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "TriangleBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "TriangleBuilder.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "TriangleBuilder.cpp")
+  
+  TriangleReaderState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "TriangleReaderState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "TriangleReaderState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "TriangleReaderState.cpp")
+  
+  TriangleWriterState.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "TriangleWriterState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "TriangleWriterState.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "TriangleWriterState.cpp")
+  
+  VisualizationShapes.cpp
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(73,20): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "VisualizationShapes.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4305: инициализация: усечение из "int" в "char"
+  (компиляция исходного файла "VisualizationShapes.cpp")
+  
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\Constants.h(78,26): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "VisualizationShapes.cpp")
+  
+  Создание кода...
+C:\Users\User\source\repos\OOD\labs\lab5\VisualizationShapes\TextShapesLoader.cpp(78,1): warning C4715: TextShapesLoader::ProcessingLine: значение возвращается не при всех путях выполнения
+  VisualizationShapes.vcxproj -> C:\Users\User\source\repos\OOD\labs\lab5\x64\Debug\VisualizationShapes.exe

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{2c47bbb2-30c4-45aa-8dc8-9aec958cf305}</ProjectGuid>
+    <RootNamespace>VisualizationShapes</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\User\source\repos\OOD\SFML\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\User\source\repos\OOD\SFML\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics-d.lib;sfml-window-d.lib;sfml-audio-d.lib;sfml-system-d.lib;sfml-network-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\User\source\repos\OOD\SFML\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\User\source\repos\OOD\SFML\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics-d.lib;sfml-window-d.lib;sfml-audio-d.lib;sfml-system-d.lib;sfml-network-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\User\source\repos\OOD\SFML\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\User\source\repos\OOD\SFML\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics-d.lib;sfml-window-d.lib;sfml-audio-d.lib;sfml-system-d.lib;sfml-network-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\User\source\repos\OOD\SFML\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\User\source\repos\OOD\SFML\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics-d.lib;sfml-window-d.lib;sfml-audio-d.lib;sfml-system-d.lib;sfml-network-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="AddCircleCommand.cpp" />
+    <ClCompile Include="AddRectangleCommand.cpp" />
+    <ClCompile Include="AddTriangleCommand.cpp" />
+    <ClCompile Include="BinaryShapeSaver.cpp" />
+    <ClCompile Include="BinaryShapesLoader.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Caretaker.cpp" />
+    <ClCompile Include="CCircle.cpp" />
+    <ClCompile Include="CCircleDrawDecorator.cpp" />
+    <ClCompile Include="CCircleFileDecorator.cpp" />
+    <ClCompile Include="CCircleMathDecorator.cpp" />
+    <ClCompile Include="CircleBuilder.cpp" />
+    <ClCompile Include="CircleDrawState.cpp" />
+    <ClCompile Include="CircleReaderState.cpp" />
+    <ClCompile Include="CircleWriterState.cpp" />
+    <ClCompile Include="ColorThicknessVisitor.cpp" />
+    <ClCompile Include="ColorVisitor.cpp" />
+    <ClCompile Include="Composite.cpp" />
+    <ClCompile Include="CompositeBuilder.cpp" />
+    <ClCompile Include="CompositeDrawState.cpp" />
+    <ClCompile Include="CRectangle.cpp" />
+    <ClCompile Include="CRectangleDrawDecorator.cpp" />
+    <ClCompile Include="CRectangleFileDecorator.cpp" />
+    <ClCompile Include="CRectangleMathDecorator.cpp" />
+    <ClCompile Include="CShape.cpp" />
+    <ClCompile Include="CTriangle.cpp" />
+    <ClCompile Include="CTriangleDrawDecorator.cpp" />
+    <ClCompile Include="CTriangleFileDecorator.cpp" />
+    <ClCompile Include="CTriangleMathDecorator.cpp" />
+    <ClCompile Include="DragAndDropState.cpp" />
+    <ClCompile Include="FillingState.cpp" />
+    <ClCompile Include="IShapeDrawState.h" />
+    <ClCompile Include="LoaderShapesBINCommand.cpp" />
+    <ClCompile Include="LoaderShapesTXTCommand.cpp" />
+    <ClCompile Include="Memento.cpp" />
+    <ClCompile Include="RectangleBuilder.cpp" />
+    <ClCompile Include="RectangleDrawState.cpp" />
+    <ClCompile Include="RectangleReaderState.cpp" />
+    <ClCompile Include="RectangleWriterState.cpp" />
+    <ClCompile Include="SaverShapesBINCommand.cpp" />
+    <ClCompile Include="SaverShapesTXTCommand.cpp" />
+    <ClCompile Include="SetColorCommand.cpp" />
+    <ClCompile Include="SetModeCommand.cpp" />
+    <ClCompile Include="SetOutlineThicknessCommand.cpp" />
+    <ClCompile Include="SetTypeColorCommand.cpp" />
+    <ClCompile Include="ShapeDrawStateFactory.cpp" />
+    <ClCompile Include="ShapeHandler.cpp" />
+    <ClCompile Include="ShapeReaderStateFactory.cpp" />
+    <ClCompile Include="ShapeWriterStateFactory.cpp" />
+    <ClCompile Include="TextShapeSaver.cpp" />
+    <ClCompile Include="TextShapesLoader.cpp" />
+    <ClCompile Include="ThicknessVisitor.cpp" />
+    <ClCompile Include="ToolPanel.cpp" />
+    <ClCompile Include="ToolPanelManager.cpp" />
+    <ClCompile Include="TriangleBuilder.cpp" />
+    <ClCompile Include="TriangleDrawState.cpp" />
+    <ClCompile Include="TriangleReaderState.cpp" />
+    <ClCompile Include="TriangleWriterState.cpp" />
+    <ClCompile Include="VisualizationShapes.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddCircleCommand.h" />
+    <ClInclude Include="AddRectangleCommand.h" />
+    <ClInclude Include="AddTriangleCommand.h" />
+    <ClInclude Include="BinaryShapesLoader.h" />
+    <ClInclude Include="BinaryShapesSaver.h" />
+    <ClInclude Include="Builder.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Caretaker.h" />
+    <ClInclude Include="CCircle.h" />
+    <ClInclude Include="CCircleDrawDecorator.h" />
+    <ClInclude Include="CCircleFileDecorator.h" />
+    <ClInclude Include="CCircleMathDecorator.h" />
+    <ClInclude Include="CircleBuilder.h" />
+    <ClInclude Include="CircleDrawState.h" />
+    <ClInclude Include="ColorThicknessVisitor.h" />
+    <ClInclude Include="ColorVisitor.h" />
+    <ClInclude Include="CompositeBuilder.h" />
+    <ClInclude Include="CompositeDrawState.h" />
+    <ClInclude Include="DragAndDropState.h" />
+    <ClInclude Include="FillingState.h" />
+    <ClInclude Include="IDrawDecorator.h" />
+    <ClInclude Include="IFileDecorator.h" />
+    <ClInclude Include="CircleReaderState.h" />
+    <ClInclude Include="CircleWriterState.h" />
+    <ClInclude Include="IMathDecorator.h" />
+    <ClInclude Include="Command.h" />
+    <ClInclude Include="Composite.h" />
+    <ClInclude Include="CRectangle.h" />
+    <ClInclude Include="CRectangleDrawDecorator.h" />
+    <ClInclude Include="CRectangleFileDecorator.h" />
+    <ClInclude Include="CRectangleMathDecorator.h" />
+    <ClInclude Include="IShape.h" />
+    <ClInclude Include="IShapeDecorator.h" />
+    <ClInclude Include="CTriangle.h" />
+    <ClInclude Include="CTriangleDrawDecorator.h" />
+    <ClInclude Include="CTriangleFileDecorator.h" />
+    <ClInclude Include="CTriangleMathDecorator.h" />
+    <ClInclude Include="Constants.h" />
+    <ClInclude Include="IShapesLoader.h" />
+    <ClInclude Include="IShapeReaderState.h" />
+    <ClInclude Include="IShapesSaver.h" />
+    <ClInclude Include="IShapeWriterState.h" />
+    <ClInclude Include="IToolPanelState.h" />
+    <ClInclude Include="IVisitor.h" />
+    <ClInclude Include="LoaderShapesBINCommand.h" />
+    <ClInclude Include="LoaderShapesTXTCommand.h" />
+    <ClInclude Include="Memento.h" />
+    <ClInclude Include="NullCommand.h" />
+    <ClInclude Include="RectangleBuilder.h" />
+    <ClInclude Include="RectangleDrawState.h" />
+    <ClInclude Include="RectangleReaderState.h" />
+    <ClInclude Include="RectangleWriterState.h" />
+    <ClInclude Include="SaverShapesBINCommand.h" />
+    <ClInclude Include="SaverShapesTXTCommand.h" />
+    <ClInclude Include="SetColorCommand.h" />
+    <ClInclude Include="SetModeCommand.h" />
+    <ClInclude Include="SetOutlineThicknessCommand.h" />
+    <ClInclude Include="SetTypeColorCommand.h" />
+    <ClInclude Include="ShapeDrawStateFactory.h" />
+    <ClInclude Include="ShapeHandler.h" />
+    <ClInclude Include="ShapeReaderStateFactory.h" />
+    <ClInclude Include="ShapeWriterStateFactory.h" />
+    <ClInclude Include="TextShapesLoader.h" />
+    <ClInclude Include="TextShapesSaver.h" />
+    <ClInclude Include="ThicknessVisitor.h" />
+    <ClInclude Include="ToolPanel.h" />
+    <ClInclude Include="ToolPanelManager.h" />
+    <ClInclude Include="TriangleBuilder.h" />
+    <ClInclude Include="TriangleDrawState.h" />
+    <ClInclude Include="TriangleReaderState.h" />
+    <ClInclude Include="TriangleWriterState.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+    <Text Include="shapes.txt" />
+    <Text Include="void.txt" />
+    <Text Include="output.txt" />
+    <Text Include="robot.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shapes.bin" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

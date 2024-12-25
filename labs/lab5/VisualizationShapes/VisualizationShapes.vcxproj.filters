@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Decorators">
+      <UniqueIdentifier>{6de63914-2f01-4e99-89c7-c956d6caf91b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Decorators">
+      <UniqueIdentifier>{dbd04241-68de-43d9-b7cc-aeea75e4eb55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes">
+      <UniqueIdentifier>{3f1b18e2-995b-4804-9bd8-f0fc89bbb86a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes\RectangleShape">
+      <UniqueIdentifier>{d452f217-1a4b-406f-8572-4e1599abe583}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes\TriangleShape">
+      <UniqueIdentifier>{e94eda1e-f9ca-4945-9b02-d9c51e3aeace}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes\CircleShape">
+      <UniqueIdentifier>{fa24e6c7-4a49-45b6-bece-074c735ed26c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes\CircleShape\CircleDecorators">
+      <UniqueIdentifier>{3eb87c9c-04d3-4e17-a6e0-7295dc8fe6f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes\TriangleShape\TriangleDecorators">
+      <UniqueIdentifier>{62b1d053-1d2d-4f4f-9fb2-517bded13e1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes\RectangleShape\RectangleDecorators">
+      <UniqueIdentifier>{0076cbb4-e357-484e-92b5-23f2a6cabbb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Handler">
+      <UniqueIdentifier>{bcf5e736-b4db-406f-b98f-26965d2b9a6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Handler">
+      <UniqueIdentifier>{5e2cd8a2-2a8c-4a7f-8eda-dbfa3bbade4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes">
+      <UniqueIdentifier>{6d8a06b6-dbf7-4de1-aad1-7f0e4245c067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes\CircleShape">
+      <UniqueIdentifier>{543448eb-e842-4d45-80a6-3cad8986ee1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes\RectangleShape">
+      <UniqueIdentifier>{f1b44e6e-f788-4de4-8239-d89f2bbadb25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes\TriangleShape">
+      <UniqueIdentifier>{eeb9692d-200f-4785-bf5e-7d92deccb6e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes\CircleShape\CircleDecorators">
+      <UniqueIdentifier>{530bfe9f-8df2-4569-9a6b-e7ebd9d5d577}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes\TriangleShape\TriangleDecorators">
+      <UniqueIdentifier>{fa9da5ed-463d-4ec0-a6ab-38b0b835f6de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes\RectangleShape\RectangleDecorators">
+      <UniqueIdentifier>{31769b99-0a5e-4d7c-94e7-9945caf445a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ToolPanel">
+      <UniqueIdentifier>{70df3967-3f20-4b6f-9956-9bdfdca8e3b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\ToolPanel">
+      <UniqueIdentifier>{501d6980-227a-46ee-bfbd-7987e1b1c93d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command">
+      <UniqueIdentifier>{a61b884a-66f8-46a4-905c-e21d7920c8aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Command">
+      <UniqueIdentifier>{411dc5d7-0a2f-4d6c-b470-1bb850ecd22c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command\NullCommand">
+      <UniqueIdentifier>{28133b35-6d1b-4e37-b17b-fa462f35cb14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State">
+      <UniqueIdentifier>{73c858ba-e578-4d20-a9cc-2ca6d657b950}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ShapeReaderState">
+      <UniqueIdentifier>{5aca0c80-011e-483c-a2c1-7808adbeb22b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State">
+      <UniqueIdentifier>{1908d6af-5848-4646-8a7d-a004635ec1de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ShapeReaderState">
+      <UniqueIdentifier>{da7c4e5d-1c70-4fb8-b704-fd3bcd7df999}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ShapeWriterState">
+      <UniqueIdentifier>{e00da727-ab54-4f68-ace3-8f570961b16f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ShapeWriterState\ShapeWriterStates">
+      <UniqueIdentifier>{f777ad94-2b0d-4297-94df-bba1ca8b4331}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ShapeWriterState">
+      <UniqueIdentifier>{e1dca80c-06a5-4abd-bf89-7d9147b5ba91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ShapeWriterState\ShapeWriterStates">
+      <UniqueIdentifier>{887e8a0b-7f30-42f1-b693-b31fb69393ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ShapeReaderState\ShapeReaderStates">
+      <UniqueIdentifier>{6f89dfab-a938-45dd-82a8-fb0bbb03a304}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command\AddShapeCommand">
+      <UniqueIdentifier>{ed746e23-cabc-4e32-b487-28a5ca1f00a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Command\AddShapeCommand">
+      <UniqueIdentifier>{b8cfe177-3893-4b1b-b0b7-538e8c4fad52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ShapeReaderState\ShapeReaderStates">
+      <UniqueIdentifier>{a9654cb8-59e4-4fc1-8d87-3554c1e02377}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ShapeDrawState">
+      <UniqueIdentifier>{42c1a9da-5552-4118-beda-b5c4f45eefe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ShapeDrawState">
+      <UniqueIdentifier>{48ff46a9-d318-441e-b69b-20f1d1cdfc44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ShapeDrawState\ShapeDrawStates">
+      <UniqueIdentifier>{045b79c0-baeb-4a92-9fae-4f3a3d83aa6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ShapeDrawState\ShapeDrawStates">
+      <UniqueIdentifier>{13b1a763-f0d7-420c-95c2-dc26f74804c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command\ColorCommand">
+      <UniqueIdentifier>{a554d905-a6b7-4aa7-9a10-f75ea0e0162f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Command\ColorCommand">
+      <UniqueIdentifier>{bb44d24f-62db-460f-b796-24a4fe1514de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command\SetOutlineThicknessCommand">
+      <UniqueIdentifier>{8dfe9689-8bed-4454-b1b9-c0f298ca3a7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Command\SetOutlineThicknessCommand">
+      <UniqueIdentifier>{dfca3fe9-0f31-4627-8fa1-1552067ed642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command\SetModeCommand">
+      <UniqueIdentifier>{f612e3d5-fa2c-4544-9045-8a1e4aec4239}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Command\SetModeCommand">
+      <UniqueIdentifier>{e0e036f6-863d-4cb7-ab18-4ac6a3340074}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ToolPanelState">
+      <UniqueIdentifier>{b8252c94-f97a-466a-8be5-3c38de3a0981}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\State\ToolPanelState\ToolPanelStates">
+      <UniqueIdentifier>{cefd169e-3634-491e-9ce3-a02a83e5ca18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ToolPanelState">
+      <UniqueIdentifier>{14feaae9-cee7-4a75-b0f4-3a65a61909c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\State\ToolPanelState\ToolPanelStates">
+      <UniqueIdentifier>{deee6bae-4fb0-4276-9ddd-5164eb86c3ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Visitor">
+      <UniqueIdentifier>{4adf5b58-6003-48ce-8951-7b65de7852d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Visitor\Visitors">
+      <UniqueIdentifier>{4833ccab-107d-492b-b4dd-eb817e74cf25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Visitor">
+      <UniqueIdentifier>{8384a42d-f119-4ac4-8559-acf4f091a92b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Visitor\Visitors">
+      <UniqueIdentifier>{d26bf5ce-b0f5-4a31-b8c0-2e74e79fa0a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Memento">
+      <UniqueIdentifier>{7f2e852d-cf74-445e-a682-0412109fda9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Memento">
+      <UniqueIdentifier>{4fb31a1d-68f1-4434-9a41-8c4e85d739bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes\Composite">
+      <UniqueIdentifier>{3c497ae0-b900-4816-93cc-0135c7296a8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes\Composite">
+      <UniqueIdentifier>{09679ef1-9d0b-4637-9a0d-b05926a17fac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Command\SaverShapesCommand">
+      <UniqueIdentifier>{e4fd4bbb-b8dc-4f05-8530-ae06f9074a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command\SaverShapesCommand">
+      <UniqueIdentifier>{6ad7df1b-c0e7-464a-a9cd-e1d6fb550490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Builders">
+      <UniqueIdentifier>{a17886a4-4f96-4c0c-ba09-7b5515c1c72f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Builders">
+      <UniqueIdentifier>{6d5b80ec-e9d7-429c-a08c-fd672125ba58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\ShapesLoader">
+      <UniqueIdentifier>{d3ded23b-4395-484b-8b43-a573588b2b63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\ShapesSaver">
+      <UniqueIdentifier>{9cb8f475-2a85-49d1-ac82-345700d560f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ShapesSaver">
+      <UniqueIdentifier>{e0a2ee06-a05e-408d-b1d2-51d4f342030e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ShapesLoader">
+      <UniqueIdentifier>{6a0bb796-8823-485e-b0d5-6451230e973e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Command\LoaderShapesCommand">
+      <UniqueIdentifier>{7fa458c4-3d1e-4c47-af8d-f00a857b1d17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Command\LoaderShapesCommand">
+      <UniqueIdentifier>{10453570-9374-41ff-b930-324a00a457ac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="VisualizationShapes.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Composite.cpp">
+      <Filter>Исходные файлы\Shapes\Composite</Filter>
+    </ClCompile>
+    <ClCompile Include="CShape.cpp">
+      <Filter>Исходные файлы\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircle.cpp">
+      <Filter>Исходные файлы\Shapes\CircleShape</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircleDrawDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\CircleShape\CircleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircleFileDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\CircleShape\CircleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircleMathDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\CircleShape\CircleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CRectangle.cpp">
+      <Filter>Исходные файлы\Shapes\RectangleShape</Filter>
+    </ClCompile>
+    <ClCompile Include="CRectangleDrawDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\RectangleShape\RectangleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CRectangleFileDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\RectangleShape\RectangleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CRectangleMathDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\RectangleShape\RectangleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CTriangle.cpp">
+      <Filter>Исходные файлы\Shapes\TriangleShape</Filter>
+    </ClCompile>
+    <ClCompile Include="CTriangleDrawDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\TriangleShape\TriangleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CTriangleFileDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\TriangleShape\TriangleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="CTriangleMathDecorator.cpp">
+      <Filter>Исходные файлы\Shapes\TriangleShape\TriangleDecorators</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeHandler.cpp">
+      <Filter>Исходные файлы\Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Исходные файлы\ToolPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolPanel.cpp">
+      <Filter>Исходные файлы\ToolPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="AddCircleCommand.cpp">
+      <Filter>Исходные файлы\Command\AddShapeCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleReaderState.cpp">
+      <Filter>Исходные файлы\State\ShapeReaderState\ShapeReaderStates</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeReaderStateFactory.cpp">
+      <Filter>Исходные файлы\State\ShapeReaderState</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeWriterStateFactory.cpp">
+      <Filter>Исходные файлы\State\ShapeWriterState</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleReaderState.cpp">
+      <Filter>Исходные файлы\State\ShapeReaderState\ShapeReaderStates</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleReaderState.cpp">
+      <Filter>Исходные файлы\State\ShapeReaderState\ShapeReaderStates</Filter>
+    </ClCompile>
+    <ClCompile Include="AddRectangleCommand.cpp">
+      <Filter>Исходные файлы\Command\AddShapeCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTriangleCommand.cpp">
+      <Filter>Исходные файлы\Command\AddShapeCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleWriterState.cpp">
+      <Filter>Исходные файлы\State\ShapeWriterState\ShapeWriterStates</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleWriterState.cpp">
+      <Filter>Исходные файлы\State\ShapeWriterState\ShapeWriterStates</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleWriterState.cpp">
+      <Filter>Исходные файлы\State\ShapeWriterState\ShapeWriterStates</Filter>
+    </ClCompile>
+    <ClCompile Include="IShapeDrawState.h">
+      <Filter>Файлы заголовков\State\ShapeDrawState</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeDrawStateFactory.cpp">
+      <Filter>Исходные файлы\State\ShapeDrawState</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleDrawState.cpp">
+      <Filter>Исходные файлы\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CompositeDrawState.cpp">
+      <Filter>Исходные файлы\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleDrawState.cpp">
+      <Filter>Исходные файлы\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleDrawState.cpp">
+      <Filter>Исходные файлы\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolPanelManager.cpp">
+      <Filter>Исходные файлы\ToolPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="SetColorCommand.cpp">
+      <Filter>Исходные файлы\Command\ColorCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="SetOutlineThicknessCommand.cpp">
+      <Filter>Исходные файлы\Command\SetOutlineThicknessCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="SetModeCommand.cpp">
+      <Filter>Исходные файлы\Command\SetModeCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="DragAndDropState.cpp">
+      <Filter>Исходные файлы\State\ToolPanelState\ToolPanelStates</Filter>
+    </ClCompile>
+    <ClCompile Include="FillingState.cpp">
+      <Filter>Исходные файлы\State\ToolPanelState\ToolPanelStates</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorVisitor.cpp">
+      <Filter>Исходные файлы\Visitor\Visitors</Filter>
+    </ClCompile>
+    <ClCompile Include="ThicknessVisitor.cpp">
+      <Filter>Исходные файлы\Visitor\Visitors</Filter>
+    </ClCompile>
+    <ClCompile Include="SetTypeColorCommand.cpp">
+      <Filter>Исходные файлы\Command\ColorCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Caretaker.cpp">
+      <Filter>Исходные файлы\Memento</Filter>
+    </ClCompile>
+    <ClCompile Include="Memento.cpp">
+      <Filter>Исходные файлы\Memento</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorThicknessVisitor.cpp">
+      <Filter>Исходные файлы\Visitor\Visitors</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryShapeSaver.cpp">
+      <Filter>Исходные файлы\ShapesSaver</Filter>
+    </ClCompile>
+    <ClCompile Include="TextShapeSaver.cpp">
+      <Filter>Исходные файлы\ShapesSaver</Filter>
+    </ClCompile>
+    <ClCompile Include="SaverShapesTXTCommand.cpp">
+      <Filter>Исходные файлы\Command\SaverShapesCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="SaverShapesBINCommand.cpp">
+      <Filter>Исходные файлы\Command\SaverShapesCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleBuilder.cpp">
+      <Filter>Исходные файлы\Builders</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleBuilder.cpp">
+      <Filter>Исходные файлы\Builders</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleBuilder.cpp">
+      <Filter>Исходные файлы\Builders</Filter>
+    </ClCompile>
+    <ClCompile Include="CompositeBuilder.cpp">
+      <Filter>Исходные файлы\Builders</Filter>
+    </ClCompile>
+    <ClCompile Include="LoaderShapesBINCommand.cpp">
+      <Filter>Исходные файлы\Command\LoaderShapesCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="LoaderShapesTXTCommand.cpp">
+      <Filter>Исходные файлы\Command\LoaderShapesCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryShapesLoader.cpp">
+      <Filter>Исходные файлы\ShapesLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="TextShapesLoader.cpp">
+      <Filter>Исходные файлы\ShapesLoader</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Constants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="IShapeDecorator.h">
+      <Filter>Файлы заголовков\Decorators</Filter>
+    </ClInclude>
+    <ClInclude Include="IFileDecorator.h">
+      <Filter>Файлы заголовков\Decorators</Filter>
+    </ClInclude>
+    <ClInclude Include="IDrawDecorator.h">
+      <Filter>Файлы заголовков\Decorators</Filter>
+    </ClInclude>
+    <ClInclude Include="IMathDecorator.h">
+      <Filter>Файлы заголовков\Decorators</Filter>
+    </ClInclude>
+    <ClInclude Include="Composite.h">
+      <Filter>Файлы заголовков\Shapes\Composite</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeHandler.h">
+      <Filter>Файлы заголовков\Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="IShape.h">
+      <Filter>Файлы заголовков\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircle.h">
+      <Filter>Файлы заголовков\Shapes\CircleShape</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircleDrawDecorator.h">
+      <Filter>Файлы заголовков\Shapes\CircleShape\CircleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircleFileDecorator.h">
+      <Filter>Файлы заголовков\Shapes\CircleShape\CircleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircleMathDecorator.h">
+      <Filter>Файлы заголовков\Shapes\CircleShape\CircleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CRectangle.h">
+      <Filter>Файлы заголовков\Shapes\RectangleShape</Filter>
+    </ClInclude>
+    <ClInclude Include="CRectangleDrawDecorator.h">
+      <Filter>Файлы заголовков\Shapes\RectangleShape\RectangleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CRectangleFileDecorator.h">
+      <Filter>Файлы заголовков\Shapes\RectangleShape\RectangleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CRectangleMathDecorator.h">
+      <Filter>Файлы заголовков\Shapes\RectangleShape\RectangleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CTriangle.h">
+      <Filter>Файлы заголовков\Shapes\TriangleShape</Filter>
+    </ClInclude>
+    <ClInclude Include="CTriangleDrawDecorator.h">
+      <Filter>Файлы заголовков\Shapes\TriangleShape\TriangleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CTriangleFileDecorator.h">
+      <Filter>Файлы заголовков\Shapes\TriangleShape\TriangleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="CTriangleMathDecorator.h">
+      <Filter>Файлы заголовков\Shapes\TriangleShape\TriangleDecorators</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Файлы заголовков\ToolPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolPanel.h">
+      <Filter>Файлы заголовков\ToolPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Файлы заголовков\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="AddCircleCommand.h">
+      <Filter>Файлы заголовков\Command\AddShapeCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="NullCommand.h">
+      <Filter>Файлы заголовков\Command\NullCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="IShapeReaderState.h">
+      <Filter>Файлы заголовков\State\ShapeReaderState</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleReaderState.h">
+      <Filter>Файлы заголовков\State\ShapeReaderState\ShapeReaderStates</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeReaderStateFactory.h">
+      <Filter>Файлы заголовков\State\ShapeReaderState</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeWriterStateFactory.h">
+      <Filter>Файлы заголовков\State\ShapeWriterState</Filter>
+    </ClInclude>
+    <ClInclude Include="IShapeWriterState.h">
+      <Filter>Файлы заголовков\State\ShapeWriterState</Filter>
+    </ClInclude>
+    <ClInclude Include="AddRectangleCommand.h">
+      <Filter>Файлы заголовков\Command\AddShapeCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTriangleCommand.h">
+      <Filter>Файлы заголовков\Command\AddShapeCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleReaderState.h">
+      <Filter>Файлы заголовков\State\ShapeReaderState\ShapeReaderStates</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleReaderState.h">
+      <Filter>Файлы заголовков\State\ShapeReaderState\ShapeReaderStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleWriterState.h">
+      <Filter>Файлы заголовков\State\ShapeWriterState\ShapeWriterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleWriterState.h">
+      <Filter>Файлы заголовков\State\ShapeWriterState\ShapeWriterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleWriterState.h">
+      <Filter>Файлы заголовков\State\ShapeWriterState\ShapeWriterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeDrawStateFactory.h">
+      <Filter>Файлы заголовков\State\ShapeDrawState</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleDrawState.h">
+      <Filter>Файлы заголовков\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CompositeDrawState.h">
+      <Filter>Файлы заголовков\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleDrawState.h">
+      <Filter>Файлы заголовков\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleDrawState.h">
+      <Filter>Файлы заголовков\State\ShapeDrawState\ShapeDrawStates</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolPanelManager.h">
+      <Filter>Файлы заголовков\ToolPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="SetColorCommand.h">
+      <Filter>Файлы заголовков\Command\ColorCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="SetOutlineThicknessCommand.h">
+      <Filter>Файлы заголовков\Command\SetOutlineThicknessCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="SetModeCommand.h">
+      <Filter>Файлы заголовков\Command\SetModeCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="SetTypeColorCommand.h">
+      <Filter>Файлы заголовков\Command\ColorCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="IToolPanelState.h">
+      <Filter>Файлы заголовков\State\ToolPanelState</Filter>
+    </ClInclude>
+    <ClInclude Include="DragAndDropState.h">
+      <Filter>Файлы заголовков\State\ToolPanelState\ToolPanelStates</Filter>
+    </ClInclude>
+    <ClInclude Include="FillingState.h">
+      <Filter>Файлы заголовков\State\ToolPanelState\ToolPanelStates</Filter>
+    </ClInclude>
+    <ClInclude Include="IVisitor.h">
+      <Filter>Файлы заголовков\Visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorVisitor.h">
+      <Filter>Файлы заголовков\Visitor\Visitors</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorThicknessVisitor.h">
+      <Filter>Файлы заголовков\Visitor\Visitors</Filter>
+    </ClInclude>
+    <ClInclude Include="ThicknessVisitor.h">
+      <Filter>Файлы заголовков\Visitor\Visitors</Filter>
+    </ClInclude>
+    <ClInclude Include="Memento.h">
+      <Filter>Файлы заголовков\Memento</Filter>
+    </ClInclude>
+    <ClInclude Include="Caretaker.h">
+      <Filter>Файлы заголовков\Memento</Filter>
+    </ClInclude>
+    <ClInclude Include="IShapesSaver.h">
+      <Filter>Файлы заголовков\ShapesSaver</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryShapesSaver.h">
+      <Filter>Файлы заголовков\ShapesSaver</Filter>
+    </ClInclude>
+    <ClInclude Include="TextShapesSaver.h">
+      <Filter>Файлы заголовков\ShapesSaver</Filter>
+    </ClInclude>
+    <ClInclude Include="SaverShapesTXTCommand.h">
+      <Filter>Файлы заголовков\Command\SaverShapesCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="SaverShapesBINCommand.h">
+      <Filter>Файлы заголовков\Command\SaverShapesCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Builder.h">
+      <Filter>Файлы заголовков\Builders</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleBuilder.h">
+      <Filter>Файлы заголовков\Builders</Filter>
+    </ClInclude>
+    <ClInclude Include="IShapesLoader.h">
+      <Filter>Файлы заголовков\ShapesLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleBuilder.h">
+      <Filter>Файлы заголовков\Builders</Filter>
+    </ClInclude>
+    <ClInclude Include="TextShapesLoader.h">
+      <Filter>Файлы заголовков\ShapesLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleBuilder.h">
+      <Filter>Файлы заголовков\Builders</Filter>
+    </ClInclude>
+    <ClInclude Include="CompositeBuilder.h">
+      <Filter>Файлы заголовков\Builders</Filter>
+    </ClInclude>
+    <ClInclude Include="LoaderShapesBINCommand.h">
+      <Filter>Файлы заголовков\Command\LoaderShapesCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="LoaderShapesTXTCommand.h">
+      <Filter>Файлы заголовков\Command\LoaderShapesCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryShapesLoader.h">
+      <Filter>Файлы заголовков\ShapesLoader</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+    <Text Include="output.txt" />
+    <Text Include="void.txt" />
+    <Text Include="robot.txt" />
+    <Text Include="shapes.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shapes.bin">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+</Project>
